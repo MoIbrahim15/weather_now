@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+
+    <!--Volley Errors-->
+    <string name="some_error_occurred">للأسف حدث خطأ ما.</string>
+    <string name="no_connection">من فضلك تأكد من وجود انترنت.</string>
+    <string name="server_error">يوجد خطأ بالسيرفر برجاء المحاولة لاحقأ</string>
+    <string name="time_out_error">يوجد خطأ بالسيرفر برجاء المحاولة لاحقأ</string>
+
+
+    <!--APP STRINGS-->
+    <string name="loading">برجاء انتظار التحميل</string>
+    <string name="map">الخريطة</string>
+    <string name="cities">الأماكن</string>
+    <string name="meter">م</string>
+    <string name="sry_msg">يوجد خطأ برجاء المحاولة لاحقأ</string>
+    <string name="share_msg">/كان رائع , هيا بنا</string>
+    <string name="search">البحث</string>
+    <string name="share_button">زر المشاركة</string>
+    <string name="logo_img">صورة اللوجو</string>
+    <string name="gps_not_enabled">GPS  لا بعمل</string>
+    <string name="not_supported">هذا الجهاز غير مدعم</string>
+    <string name="make_sure_with_internet">تأكد من توفر الانترنت</string>
+    <string name="get_location">يتم البحث عن موقعك</string>
+    <string name="resultion_reqierd">يوجد خطأ</string>
+    <string name="gps_off">GPS غير متاح يمكنك اجادة الممكان يدويأ</string>
+    <string name="current_temp">الطقس الحالي : </string>
+    <string name="max_temp">الطقس العالي : </string>
+    <string name="min_temp">الطقس المنخفض : </string>
+    <string name="weather_desc">وصف الطقس : </string>
+    <string name="wind_degree_speed">درجة الرياح وسرعتها : </string>
+    <string name="pressure">الضغط : </string>
+    <string name="humidity">الرطوبه : </string>
+</resources>

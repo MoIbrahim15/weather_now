@@ -1,0 +1,5 @@
+KEY STORE PATH :E:\Work\AndroidStudioProjects\MAL\Weather Now
+password: WeatherMAL
+
+ALIAS : weatherNow
+Password: weathernowMALMI

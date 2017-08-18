@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <attr name="fontType">
+        <enum name="georgiaRegular" value="10" />
+        <enum name="georgiaBold" value="20" />
+        <enum name="georgiaItalic" value="30" />
+        <enum name="georgiaBoldItalic" value="40" />
+    </attr>
+
+    <declare-styleable name="CustomButton">
+        <attr name="fontType" />
+    </declare-styleable>
+
+    <declare-styleable name="CustomTextView">
+        <attr name="fontType" />
+    </declare-styleable>
+
+    <declare-styleable name="CustomEditText">
+        <attr name="fontType" />
+    </declare-styleable>
+</resources>
